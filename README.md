@@ -2,6 +2,10 @@
 
 English | [简体中文](README.zh-CN.md)
 
+> **Fork / 学习实践分支** · Based on [hect0x7/android-proxy-server](https://github.com/hect0x7/android-proxy-server).
+>
+> 本分支保留上游作者归属及 Apache-2.0 许可。代理功能、使用条件与构建说明见下方；原项目与版权信息见文末及 [NOTICE](NOTICE)。
+
 An independent, minimal, open-source, and ad-free HTTP/SOCKS5 proxy server for Android.
 
 <img src="art/app-icon.png" width="160" alt="Android Proxy Server icon">
